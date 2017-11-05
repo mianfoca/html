@@ -7,7 +7,7 @@ This component will allow you to generate complex alert messages.
             ->details('Renew now to learn about:')
             ->items([
                 'Laravel',
-                'PHP,
+                'PHP',
                 'And more',
             ])
             ->button('Renew now!', '#', 'primary');
